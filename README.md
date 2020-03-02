@@ -1,6 +1,6 @@
 <img src="https://www.soulve.nu/wp-content/uploads/2019/11/logo-soulve.png" width="200">
 
-# Programming Assignment - BackEnd Developer #
+# Hospital Product Catalog Assignment #
 
 ## Goal ##
 
