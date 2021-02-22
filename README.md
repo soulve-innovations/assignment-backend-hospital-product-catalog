@@ -22,7 +22,8 @@ Avoid unnecessary complexity such as implementing a queue system or messaging ar
 * Internal logic shall be under unit test;
 * Functionality shall be under integration test;
 * Documentation in code;
-* Clear and to the point readme on usage.
+* Clear and to the point readme on usage;
+* Code submitted in GitHub, you can pick your own branching model.
 
 ## Nice to haves ## 
 
